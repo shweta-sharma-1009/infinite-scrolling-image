@@ -1,5 +1,7 @@
 **Project** -  infinite-scrolling-image
 
+![Screenshot (527)](https://github.com/shweta-sharma-1009/infinite-scrolling-image/assets/128416925/85988a03-904d-415c-a62e-a3ffea96230c)
+
 
 **Hosted Link - https://infinite-scrolling-image-1lpfsqbil-shweta-sharma-1009s-projects.vercel.app/
 https://infinite-scrolling-image.vercel.app/**
