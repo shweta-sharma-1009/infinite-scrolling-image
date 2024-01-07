@@ -1,4 +1,4 @@
-Project - -infinite-scrolling-image
+**Project** -  infinite-scrolling-image
 
 
 **Hosted Link - https://infinite-scrolling-image-1lpfsqbil-shweta-sharma-1009s-projects.vercel.app/
